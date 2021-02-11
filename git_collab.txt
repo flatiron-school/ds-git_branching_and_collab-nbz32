@@ -1,6 +1,6 @@
 Let's follow this workflow.
 
-Person A:
+Person A (already done!):
 
 1. Checkout a new branch called "readme" and edit the README.
 2. Push your new branch to the repo on GitHub and make a pull request.
@@ -11,8 +11,19 @@ Person B:
 3. Add a function to the .py file that will input a list of strings, remove the whitespace from each, and then return the string that is alphabetically first (use 'min()').
 4. Push your new branch to the repo on GitHub and make a pull request.
 
-Person A:
-1. Accept the pull request and then pull the changes (the new .py file) down to your local copy.
+Merge Conflict:
 
-Use VS Code to manage merge conflict?
-Build a src folder with a __init__.py to make custom functions importable.
+1. Checkout a new branch and add a notebook called "final_notebook". Add a header and some imports.
+2. Push the changes up to the remote.
+3. Checkout the main branch and add "final_notebook" but this time leave off the header.
+4. Push the changes up to the remote.
+5. Make the pull request and see the merge conflict.
+6. Edit the notebook on GitHub.
+7. Commit the changes.
+8. Pull down the changes.
+
+Importing custom functions:
+
+1. Build a src folder with a __init__.py to make custom functions importable.
+2. Move the .py file to src.
+3. Import the function in a notebook.
