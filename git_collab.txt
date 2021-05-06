@@ -18,7 +18,7 @@ Merge Conflict:
 3. Checkout the main branch and add "final_notebook" but this time leave off the header.
 4. Push the changes up to the remote.
 5. Make the pull request and see the merge conflict.
-6. Edit the notebook on GitHub.
+6. Edit the notebook on GitHub or in an editor.
 7. Commit the changes.
 8. Pull down the changes.
 
