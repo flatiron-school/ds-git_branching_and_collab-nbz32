@@ -8,3 +8,4 @@ This repository describes an exciting course of action for collaborators on a gi
 1. Use 'git remote add demo https://github.com/ds2012-flatiron/ds-git_branching_and_collab-nbz32.git.
 2. Pull the changes from the repo to the local version of this repository using either (a) 'git pull demo main' or (b) 'git checkout main', 'git fetch demo', and 'git merge demo'.
 3. Make changes to local repo and push the changes to remote.
+4. Live happily thereafter.
